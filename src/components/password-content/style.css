@@ -1,0 +1,10 @@
+.password {
+  font-size: 60px;
+  color: white;
+  padding-bottom: 20px;
+  position: absolute;
+  right: 0;
+  float: left;
+  left: 0;
+  top: 130px;
+}

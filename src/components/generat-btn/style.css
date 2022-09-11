@@ -1,0 +1,16 @@
+.generate-password {
+  background: white;
+  color: black;
+  border: none;
+  outline: none;
+  padding: 20px 40px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: all 0.5;
+  top: 80px;
+  position: relative;
+}
+
+.generate-password:hover {
+  opacity: 0.8;
+}
